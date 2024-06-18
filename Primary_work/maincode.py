@@ -1,3 +1,5 @@
+#  UAV drone system that operates using a simulated flight controller and swarm technology.
+
 import random
 import time
 from threading import Thread
