@@ -1,3 +1,6 @@
+## Swarm Communication using ESP8266
+# To simulate communication using ESP8266, we can create a simple network where drones send and receive messages.
+
 class ESP8266:
     def __init__(self):
         self.network = []
