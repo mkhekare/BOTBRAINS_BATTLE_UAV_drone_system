@@ -15,6 +15,8 @@
 
 ![WhatsApp Image 2024-06-18 at 7 00 39 PM](https://github.com/mkhekare/BOTBRAINS_BATTLE_UAV_drone_system/assets/52950861/b7c5bd61-72ac-4fa1-b28c-66ce5b3d5f9f)
 
+# Python code that simulates the described behavior of the drones:
+
 ```
 import random
 import time
