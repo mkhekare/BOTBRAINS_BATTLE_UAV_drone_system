@@ -1,5 +1,5 @@
 ## Algorithm/Flow
-#Initialization
+# Initialization
 1. Drones are initialized and connected to the simulated ESP8266 network.
 2. Each drone is assigned a unique ID and starting position.
 
