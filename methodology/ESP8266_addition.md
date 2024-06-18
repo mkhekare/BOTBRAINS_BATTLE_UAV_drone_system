@@ -1,4 +1,4 @@
-## Communication using ESP8266
+## b) Communication using ESP8266
 The ESP8266 Wi-Fi module can establish a mesh network for drone-to-drone communication. Drones can send messages about their status and findings to each other.
 ### Following steps can be used to integrate ESP8266 Wi-Fi module with the flight controller for communication:
 1.	Hardware Connection:
