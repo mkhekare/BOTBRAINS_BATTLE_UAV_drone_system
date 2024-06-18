@@ -1,5 +1,5 @@
 ## Design Changes in Regular Drones
-# To adapt a regular drone for operation on land, air, and water, the following changes can be made:
+# To adapt a regular drone for operation on land, air, and water,(Amphibious) the following changes can be made:
 1.	Multi-Terrain Mobility:
 -	Landing Gear: Equip drones with retractable landing gear that can function as wheels for land movement.
 -	Buoyant Design: Use waterproof materials and a buoyant design to ensure drones can float and move on water surfaces.
