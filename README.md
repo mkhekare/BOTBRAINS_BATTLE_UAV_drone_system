@@ -30,47 +30,11 @@ Each drone operates autonomously using the following sensors:
 - **Color Sensor**: For target identification.
 - **ESP8266**: For communication.
 
-## Flowchart
-```plaintext
-+------------------------+
-|   Start Drone Search   |
-+------------------------+
-            |
-            v
-+------------------------+
-|      Move Randomly     |
-+------------------------+
-            |
-            v
-+-----------------------------+
-|  Detect Object with LiDAR   |
-+-----------------------------+
-            |
-            v
-+-------------------------------+
-|  Object Height == 15cm? (No)  |------------------------+
-+-------------------------------+                        |
-            |                                           |
-           (Yes)                                         |
-            |                                           |
-            v                                           |
-+-----------------------------+                         |
-|   Check Color with Sensor   |                         |
-+-----------------------------+                         |
-            |                                           |
-            v                                           |
-+-------------------------------+                       |
-|   Color == Green? (No)        |-----------------------+
-+-------------------------------+
-            |
-           (Yes)
-            |
-            v
-+-------------------------------+
-|  Communicate with Other Drones|
-+-------------------------------+
-            |
-            v
-+------------------------+
-|    Target Found!       |
-+------------------------+
+### References:
+- "Design and Development of Autonomous Drone for Search and Rescue Operations" by S. K. Singh et al. (2020)
+- "Autonomous Drone for Environmental Monitoring Using Lidar and Camera" by J. M. Lee et al. (2019)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9841964/
+- https://www.mdpi.com/1424-8220/21/8/2642
+
+![UAV_drone_system_flowchart](https://github.com/mkhekare/BOTBRAINS_BATTLE_UAV_drone_system/assets/52950861/8732cf44-b769-412f-b46f-afc853c4eee0)
+
