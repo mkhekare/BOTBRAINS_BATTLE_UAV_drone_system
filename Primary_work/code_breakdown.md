@@ -8,8 +8,8 @@
 
 - ESP8266 Class: Simulates the communication network for the drones.
 
-connect(drone): Adds a drone to the network.
-send_message(sender, message): Sends a message to all drones in the network except the sender.
+a connect(drone): Adds a drone to the network.
+b send_message(sender, message): Sends a message to all drones in the network except the sender.
 
 - Drone Class: Represents an individual drone.
 
