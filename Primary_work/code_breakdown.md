@@ -13,13 +13,13 @@
 
 - Drone Class: Represents an individual drone.
 
-1 __init__(self, id, network): Initializes the drone with an ID and connects it to the network.
-2 receive_message(self, message): Handles receiving messages.
-3 communicate(self): Sends a message to other drones indicating the target is found.
-4 move(self): Simulates the drone moving to a random position.
-5 detect_object(self): Simulates object detection using LiDAR.
-6 check_color(self): Simulates color detection.
-7 search(self, other_drones): Simulates the search operation and communicates if the target is found.
+1. __init__(self, id, network): Initializes the drone with an ID and connects it to the network.
+2. receive_message(self, message): Handles receiving messages.
+3. communicate(self): Sends a message to other drones indicating the target is found.
+4. move(self): Simulates the drone moving to a random position.
+5. detect_object(self): Simulates object detection using LiDAR.
+6. check_color(self): Simulates color detection.
+7. search(self, other_drones): Simulates the search operation and communicates if the target is found.
 
 - Flight Controller Class: Manages the drones and initiates the test flight.
 
