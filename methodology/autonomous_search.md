@@ -15,3 +15,6 @@
 5.	Collision Avoidance:
 -	Use LiDAR data to avoid obstacles and prevent collisions with other drones.
 -	Implement collision avoidance algorithms to navigate safely in the search area.
+![image](https://github.com/mkhekare/BOTBRAINS_BATTLE_UAV_drone_system/assets/52950861/2e2b387c-d8da-4603-9430-a188fc92a877)
+
+Reference: https://www.mdpi.com/2504-446X/7/11/669
